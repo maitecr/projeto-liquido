@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "liquido": "nodemon ./node_modules/liquido/index.js"
+  },
+  "dependencies": {
+    "liquido": "^0.3.0",
+    "nodemon": "^3.1.10"
+  }
+}

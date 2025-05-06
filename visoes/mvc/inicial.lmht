@@ -1,0 +1,9 @@
+<lmht>
+    <cabeca>
+        <titulo>Demonstração em liquido com LMHT 2</titulo>
+    </cabeca>
+
+    <corpo>
+        <titulo1> {{ titulo }} </titulo1>
+    </corpo>
+</lmht>
