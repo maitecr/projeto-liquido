@@ -1,0 +1,14 @@
+// //Configurações do roteador
+// liquido.roteador.cors = verdadeiro
+// liquido.roteador.bodyParser = verdadeiro
+// liquido.roteador.morgan = verdadeiro
+// liquido.roteador.cookieParser = verdadeiro
+// liquido.roteador.passport = verdadeiro
+// liquido.roteador.json = verdadeiro
+// liquido.roteador.helmet = verdadeiro
+
+// liquido.roteador.diretorioEstatico = 'publico'
+
+// //Configurações da base de dados
+// liquido.dados.lincones.tecnologia = 'sqlite'
+// liquido.dados.lincones.caminho = ':memory:'
